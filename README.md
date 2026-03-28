@@ -1,4 +1,5 @@
 🌦️ Basic Weather App (Tkinter)
+
 📖 Description
 It is a small application for the desktop environment to show the current weather of any city entered by the user.
 It is designed and implemented using Python programming and Tkinter for the interface and Open Weather Map for getting the real-time weather updates.
@@ -8,6 +9,7 @@ Simple and intuitive interface
 Fetches real-time updates of the weather
 Displays city name, country name, temperature in Celsius, and condition of the weather
 Displays error messages when the city name is not given correctly
+
 🛠️ Technologies Used
 Python 3 as the programming language
 Tkinter for interface development
